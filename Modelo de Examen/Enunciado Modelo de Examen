@@ -1,5 +1,6 @@
 Ejercicio 6: 
-Nos contrataron de Google para desarrollar una aplicación para el area de Marketing donde nos piden hacer un repricing de las distintas aplicaciones que tiene la compañia disponible a día de hoy. 
+Nos contrataron de Google para desarrollar una aplicación para el area de Marketing donde nos piden hacer un repricing de 
+las distintas aplicaciones que tiene la compañia disponible a día de hoy. 
 Para ello nos brindaron un fichero con la información a tener en cuenta. El programa debe hacer lo siguiente:
 - Leer el fichero y subirlo a la aplicación 
 - Calcular a traves del uso de una interfaz la ganancia neta mensual que es igual a cantidad de usuarios * costo mensual
@@ -7,9 +8,10 @@ Para ello nos brindaron un fichero con la información a tener en cuenta. El pro
 
 Consideraciones:
 - El programa debe manejar excepciones para lectura de ficheros. 
-- El programa debe generar un fichero de SALIDA con la información agregada para cada una de las aplicaciones, el mismo se debe llamar "output_proceso_google"
-- El programa debe implementar al menos 1 hilo que se encargue de generar el fichero de salida. El mismo debe ser un hilo No Demonio y debe garantizarse que el programa NO termine 
-hasta que este no finalice.
+- El programa debe generar un fichero de SALIDA con la información agregada para cada una de las aplicaciones, 
+el mismo se debe llamar "output_proceso_google"
+- El programa debe implementar al menos 1 hilo que se encargue de generar el fichero de salida. 
+El mismo debe ser un hilo No Demonio y debe garantizarse que el programa NO termine hasta que este no finalice.
 
 ENTREGABLES:
 - Codigo del proyecto. 
